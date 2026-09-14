@@ -11,10 +11,12 @@ main {
 
 article {
 	flex: 2;
+	min-width: 0;
 	overflow-y: auto;
 }
 
 aside {
 	flex: 1;
+	min-width: 0;
 	overflow-y: auto;
 }
